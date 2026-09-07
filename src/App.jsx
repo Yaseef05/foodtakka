@@ -5,7 +5,7 @@ import Cart from './pages/Cart/Cart'
 import PlaceOrder from './pages/PlaceOrder/PlaceOrder'
 import Footer from './components/Footer/Footer'
 import OrderSuccess from './pages/OrderSuccess/OrderSuccess'
-import Navbar from './components/navbar/Navbar'
+import Navbar from './components/Navbar/Navbar'
 
 const App = () => {
   return (
