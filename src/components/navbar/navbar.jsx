@@ -9,7 +9,7 @@ import basketIcon from "../../assets/basket_icon.png";
 import Button from "../button/Button";
 
 const Navbar = () => {
-
+// change the name 
   const [active, setActive] = useState("Home");
   const [menuOpen, setMenuOpen] = useState(false);
   const [showLogin, setShowLogin] = useState(false);
