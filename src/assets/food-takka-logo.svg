@@ -1,0 +1,6 @@
+<svg width="220" height="56" viewBox="0 0 220 56" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="26" cy="28" r="18" fill="#F97316"/>
+  <path d="M27.5 12 L14 32 H23 L20.5 46 L36 24 H27 L27.5 12 Z" fill="#FFFFFF"/>
+  <text x="54" y="37" font-family="'Baloo 2', 'Poppins', Arial, sans-serif" font-weight="800" font-size="28" fill="#F97316">Food</text>
+  <text x="122" y="37" font-family="'Baloo 2', 'Poppins', Arial, sans-serif" font-weight="800" font-size="28" fill="#991B1B">Takka</text>
+</svg>
